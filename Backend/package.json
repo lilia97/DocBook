@@ -1,0 +1,19 @@
+{
+  "name": "docbook",
+  "version": "1.0.0",
+  "description": "find a doctor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilia97/DocBook.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lilia97/DocBook/issues"
+  },
+  "homepage": "https://github.com/lilia97/DocBook#readme"
+}
