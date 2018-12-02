@@ -4,9 +4,11 @@ import { HeaderComponent } from './header/header.component';
 import { GalleryComponent } from './gallery/gallery.component';
 
 
+
 const routes: Routes = [
   {path:'', component: HeaderComponent},
   {path:'', component: GalleryComponent},
+  
  
 ];
 
