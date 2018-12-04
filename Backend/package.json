@@ -4,6 +4,7 @@
   "description": "find a doctor",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/lilia97/DocBook/issues"
   },
-  "homepage": "https://github.com/lilia97/DocBook#readme"
+  "homepage": "https://github.com/lilia97/DocBook#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.13"
+  }
 }
