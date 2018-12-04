@@ -1,6 +1,6 @@
 const express = require('express')
 const router = express.Router()
-const Availability = '../models/availability.js'
+const Availability = require('../models/availability.js');
 
 
 // get list
